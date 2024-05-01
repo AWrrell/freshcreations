@@ -1,0 +1,194 @@
+@charset "UTF-8";
+.siteheader {
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    text-shadow: 0px 0px #FF8E00;
+    text-align: center;
+    color: #FF9C00;
+}
+.header-container {
+    background-size: cover;
+    background-position: center center;
+    color: #FFFFFF;
+    padding-bottom: 250px;
+    text-align: center;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    padding-top: 250px;
+    padding-right: 250px;
+    padding-left: 250px;
+    background-image: url(../images/fridge.png);
+}
+.chefs 
+.header-container .site-header {
+	padding: 20px 0;
+	margin: 0 auto;
+	max-width: 1200px;
+	text-transform: uppercase;
+}
+.chefsimg {
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+	display: block
+}
+
+.main-navigation   {
+    font-size: 25px;
+    font-weight: 400;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.25);
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    color: #FAAA39;
+}
+
+
+.main-navigation ul {
+    margin: 0;
+    color: #000000;
+}
+.main-navigation ul li {
+	display: inline-block;
+}
+.main-navigation ul li a {
+	padding: 17px 37px;
+	text-decoration: none;
+	display: inline-block;
+	color: #fff;
+}
+.main-navigation ul li a:hover {
+	text-decoration: underline;
+}
+.introtitle  {
+    padding: 8vw 180px 0 180px;
+    color: rgba(0,0,0,1.00);
+}
+.header-container .page-title h2 {
+	font-size: 4.5em;
+	margin-bottom: 0;
+}
+titlesubintro {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 2em;
+    color: #000000;
+}
+.page-content {
+	background-color: #fff;
+	margin: -50px auto 0;
+	max-width: 1000px;
+	padding-top: 2em;
+	column-gap: 2em;
+	-webkit-box-shadow: 0 25px 40px 0 rgba(0, 0, 0, 0.05);
+	box-shadow: 0 25px 40px 0 rgba(0, 0, 0, 0.05);
+	padding-bottom: 2em;
+	padding-right: 3em;
+	padding-left: 3em;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	text-align: center;
+}
+.entry-content h2 {
+	font-size: 3em;
+}
+.cta-form form  {
+	max-width: 490px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+}
+.cta-form form input {
+	display: inline-block;
+	width: 100%;
+	padding: 18px 24px 14px;
+	min-height: 35px;
+	margin-bottom: 15px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	font-size: 14px;
+}
+.cta-form form input[type="submit"]  {
+	border: none;
+	background-color: #A86500;
+	text-shadow: 0px 0px;
+	color: #FFFFFF;
+	text-transform: uppercase;
+}
+.cta-form form input[type="submit"]:hover   {
+	background-color: #333333;
+}
+.site-footer {
+	padding-top: 60px;
+	padding-bottom: 60px;
+	text-align: center;
+	font-size: 16px;
+	line-height: 1;
+	font-family: sans-serif;
+}
+.social.menu ul {
+	text-transform: uppercase;
+	list-style-type: none;
+	padding: 0;
+	display: inline-block;
+}
+.social.menu ul li  {
+	display: inline-block;
+}
+.social.menu ul li a  {
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	text-decoration: none;
+	color: rgba(168,101,0,1.00);
+	font-weight: 500;
+}
+.social.menu ul li a:hover   {
+	color: #333333;
+}
+
+
+@media (max-width:375px){
+	
+	.header-container .page-title {
+    padding-left: 0px;
+    padding-right: 0px;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    color: #FFAC00;
+	}
+	.header-container .page-title h2{
+		font-size: 2.5em;}
+.logo {float: left;
+height: 80px;
+}
+.logo {
+    margin-left: auto;
+	margin-right: auto;
+	display: block
+
+}
+.entry-title {
+    color: #FAAA39;
+}
+.chefstxt {
+    color: #000000;
+}
+.h1 {
+    color: #FAAA39;
+}
+h1 {
+}
+.menutxt {
+    margin-left: auto;
+    margin-right: auto; 
+	max-width: 490px;
+	text-align: left;
+	display: block-inline
+}
+.abouttxt {
+    margin-left: auto;
+    margin-right: auto;
+	display: inline-block
+}
+.menutxt {
+}
